@@ -1,0 +1,1 @@
+/Users/driptaroopdas/Documents/workspaces/gradle/composite-build/lib/shout-quotes/build/classes/kotlin/main/org/dripto/shout/quotes/ShoutQuotes$shoutQuote$1.class:/Users/driptaroopdas/Documents/workspaces/gradle/composite-build/lib/shout-quotes/build/classes/kotlin/main/org/dripto/shout/quotes/ShoutQuotes.class
